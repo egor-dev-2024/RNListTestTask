@@ -1,4 +1,4 @@
-import {Pressable, PressableProps} from 'react-native';
+import {Pressable} from 'react-native';
 import React, {useState} from 'react';
 import {IUser} from '../../../../types/User.interface';
 import {ListItemModal} from '../ListItemModal/ListItemModal.component';
